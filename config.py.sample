@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+
+# Keys for Twitter. Get your own at https://developer.twitter.com
+twitter = {
+    'consumer_key': 'LOLWTF',
+    'consumer_secret': 'ZOMGBBQ',
+    'access_token': '137045ROFLMAOVPPegojq',
+    'access_token_secret': 'DJCBOHICA2uxyh',
+}
