@@ -7,3 +7,9 @@ twitter = {
     'access_token': '137045ROFLMAOVPPegojq',
     'access_token_secret': 'DJCBOHICA2uxyh',
 }
+
+# For optional Slack notifications
+slack = {
+    'enable': 0,
+    'hook_channel1': 'https://webhook.slack.com/omgwtfjkh',
+}
