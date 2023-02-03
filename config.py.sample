@@ -1,15 +1,8 @@
 #!/usr/bin/env python
 
-# Keys for Twitter. Get your own at https://developer.twitter.com
-twitter = {
-    'consumer_key': 'LOLWTF',
-    'consumer_secret': 'ZOMGBBQ',
-    'access_token': '137045ROFLMAOVPPegojq',
-    'access_token_secret': 'DJCBOHICA2uxyh',
-}
-
-# For optional Slack notifications
-slack = {
-    'enable': 0,
-    'hook_channel1': 'https://webhook.slack.com/omgwtfjkh',
+mastodon = {
+    'client_key': 'aaaaaaaaaaaa',
+    'client_secret': 'bbbbbbbbbbbbb',
+    'access_token': 'ccccccccccccccc',
+    'instance': 'https://hachyderm.io'
 }

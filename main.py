@@ -42,7 +42,7 @@ for entry in d.entries:
     # If entry date is newer than an hour... (prod = <, debug = >)
     if past_hour < published_dt:
         counter += 1 # Update counter
-        toot_text = f"Posted: {mo.group(1)}\n\n{entry.published}\n\n{entry.link}"
+        toot_text = f"Posted: {mo.group(1)}\n\n{entry.published}\n\n{entry.link}\n\n#fortinet"
         #api.update_status(tweet_text)
         m.toot(toot_text)
         print(toot_text)

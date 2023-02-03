@@ -1,6 +1,6 @@
-# Fortireleases Twitter Bot
+# Fortireleases Mastodon Bot
 
-This code checks the Fortinet Firmware Updates RSS feed, looks for new entries, and posts a tweet for each at https://twitter.com/fortireleases
+This code checks the Fortinet Firmware Updates RSS feed, looks for new entries, and posts a tweet for each at https://hacyderm.io/@fortireleases
 
 Take this more-or-less current source and make your own Twitter bot, or do what you want with it. I did not invest a lot of time in this, sorry.
 
