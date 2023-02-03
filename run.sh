@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SCRIPT_HOME="/home/jake/Code/fortireleases"
+SCRIPT_HOME="/home/jake/Code/fortireleases-mastodon"
 
 cd $SCRIPT_HOME
 

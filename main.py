@@ -47,6 +47,9 @@ for entry in d.entries:
         m.toot(toot_text)
         print(toot_text)
 
+if counter == 0:
+    print("No new entries found.")
+
 
 
 print(cfg.mastodon['instance'])
