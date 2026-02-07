@@ -1,3 +1,6 @@
+> [!WARNING]
+> This software is no longer maintained and the dependencies use a version of urllib3 with critical vulnerabities.
+
 # Fortireleases Mastodon Bot
 
 This code checks the Fortinet Firmware Updates RSS feed, looks for new entries, and posts a tweet for each at https://hacyderm.io/@fortireleases
